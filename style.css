@@ -1,0 +1,268 @@
+body{
+    font-family: 'Abel', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.navbar {
+	overflow: hidden;
+    background-color: #E5E5E5;
+    box-shadow: 0px 1px 15px gray;   
+  }
+  .navbar_content{
+      margin-right: 143px;
+  }
+  .navbar a {
+	float: right;
+	font-size: 17px;
+	color:#3B3B3B;
+	text-align: center;
+	padding: 14px 16px;
+    text-decoration: none;
+  }
+.navbar a:hover{
+    color:#FF8367;
+}
+/*menu end*/
+.top_section1{
+    margin-top: 48px;
+   max-width:100%;
+    height: 402px;
+}
+#hear_me{
+    text-decoration: none;
+    color: white;
+}
+.left_side{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%; 
+    height: 300px;
+}
+.right_div{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    height: 400px;
+}
+#hello_omar{
+    font-size: 40px;
+    color: #363958;
+}
+#my_name_by_top_section{
+    color:#FF8367; 
+}
+.button{
+    padding: 10px 20px;
+    background-color: tomato;
+    width: 100px;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+    box-shadow: 0px 2px 5px grey;
+}
+.top_section_image{
+    width: 370px;
+}
+/*top section 2 start*/
+#about{
+    color:#363958;
+}
+.top_section2{
+    max-width:100%;
+    height: 402px;
+    margin-top: 130px;
+}
+.top_section2_left_side{
+    width: 34%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 9%;
+    height: 400px;
+}
+.top_section2_right_side{
+    width: 34%;
+    float: left;
+    margin-left: 4%;
+    padding-left: 8%;
+    height: 400px;
+    overflow: hidden;
+}
+.second_section_image{
+    width: 411px;
+    top: 370px;
+}
+#download_bouton{
+    padding: 10px 20px;
+    background-color: tomato;
+    width: 164px;
+    border-radius: 5px;
+    text-align: center;
+}
+#cv{
+    text-decoration: none;
+    color: white;
+}
+/*top section 3 start*/
+.top_section3{
+    padding: 0px 100px ;
+    height: 800px;
+    margin-top: 40px;
+    background-color: #E5E5E5;
+    overflow: hidden;
+}
+#lastet{
+    color:tomato;
+}
+#project{
+    text-align: center;
+    padding:100px 0px;
+}
+/*new section 3*/
+.working_project_text{
+    color:#363958;
+}
+/*card*/
+.card_1,.card_2,.card_3{
+    float: left;
+    width: 350px;
+    height: 374px;
+    left: 135px;
+    border-radius: 19.74px;
+    background-color: white;
+    box-shadow: 0px 6.5812px 19.7436px rgba(0, 0, 0, 0.07);
+}
+.card_1,.card_2{
+    margin-right: 40px;
+}
+.under_image1{
+    width: 330.54px;
+    height: 216.23px;
+    background-color:#EFFAFE;
+    border-radius: 19.74px;
+    margin-top: 9px;
+    margin-left: 10px;
+}
+.under_image2{
+    width: 330.54px;
+    height: 216.23px;
+    background-color:#FEFAEE;
+    border-radius: 19.74px;
+    margin-top: 9px;
+    margin-left: 10px;
+}
+.under_image3{
+    width: 330.54px;
+    height: 216.23px;
+    background-color:#F3FEEE;
+    border-radius: 19.74px;
+    margin-top: 9px;
+    margin-left: 10px;
+}
+.project_img{
+    width: 310.54px;
+    height: 213.23px;
+    padding: 10px;
+}
+.card_text{
+    padding:0px 10px;
+}
+.card_text,h3{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 0px;
+    color: #3E3E3E;
+}
+.card_text,p{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 28px;
+    color: #3E3E3E;
+}
+.work_inquiry{
+   margin-top: 100px;
+}   
+.shape_img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+#big_text{
+    margin-left: 390px;
+    margin-top: -112px;
+    color: white;
+    font-size: 42px;
+}
+#lets_chat{
+    height: 50px;
+    width: 107px;
+    background-color: tomato;
+    border-radius: 5px;
+    position: absolute;
+    margin-top: -83px;
+    margin-left: 851px; 
+}
+#lets_text{
+    color: white;
+    text-decoration: none;
+    font-size:16px;
+    padding:10px;   
+}
+/*footer start*/
+.footer{
+    margin-top: 100px;
+    width: 100%;
+    height: 400px;
+}
+#contact_me{
+    text-align: center;  
+}
+#me{
+    color: tomato;
+}
+.footer_content{
+    width: 30%;
+    height:288px;
+    float: left;
+    padding-left: 2%; 
+}
+#footer_content{
+    margin-top: 30px;
+}
+.fotter_logo{
+    width: 200px;
+    height: 200px;
+    margin-top: -40px;
+    margin-left: 65px;
+}
+#my_status{
+    margin: -24px;
+    margin-left: 100px;
+    line-height:8px;
+}
+.faruq{
+    font-size: 32px;
+}
+.item{
+    text-decoration: none;
+    font-size: 20px;
+    line-height: 45px;
+}
+.text_color{
+    color: #3E3E3E;  
+}
+.text_color_s{
+    color: #3E3E3E;  
+}
+.text_color_s:hover{
+    color: #FF8367;  
+}
+.contact_icon{
+    width: 36.04px;
+    height: 36px;
+}
+
